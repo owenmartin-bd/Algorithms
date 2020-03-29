@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Tutorial Projects\\.Net\\VsCodeUpNRunning\\VsCodeUpNRunning.csproj": {}
+  },
+  "projects": {
+    "D:\\Tutorial Projects\\.Net\\VsCodeUpNRunning\\VsCodeUpNRunning.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tutorial Projects\\.Net\\VsCodeUpNRunning\\VsCodeUpNRunning.csproj",
+        "projectName": "VsCodeUpNRunning",
+        "projectPath": "D:\\Tutorial Projects\\.Net\\VsCodeUpNRunning\\VsCodeUpNRunning.csproj",
+        "packagesPath": "C:\\Users\\owen_\\.nuget\\packages\\",
+        "outputPath": "D:\\Tutorial Projects\\.Net\\VsCodeUpNRunning\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\owen_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

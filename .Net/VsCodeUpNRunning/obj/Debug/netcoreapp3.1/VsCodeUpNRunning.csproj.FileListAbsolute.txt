@@ -1,0 +1,13 @@
+D:\Tutorial Projects\.Net\VsCodeUpNRunning\bin\Debug\netcoreapp3.1\VsCodeUpNRunning.exe
+D:\Tutorial Projects\.Net\VsCodeUpNRunning\bin\Debug\netcoreapp3.1\VsCodeUpNRunning.deps.json
+D:\Tutorial Projects\.Net\VsCodeUpNRunning\bin\Debug\netcoreapp3.1\VsCodeUpNRunning.runtimeconfig.json
+D:\Tutorial Projects\.Net\VsCodeUpNRunning\bin\Debug\netcoreapp3.1\VsCodeUpNRunning.runtimeconfig.dev.json
+D:\Tutorial Projects\.Net\VsCodeUpNRunning\bin\Debug\netcoreapp3.1\VsCodeUpNRunning.dll
+D:\Tutorial Projects\.Net\VsCodeUpNRunning\bin\Debug\netcoreapp3.1\VsCodeUpNRunning.pdb
+D:\Tutorial Projects\.Net\VsCodeUpNRunning\obj\Debug\netcoreapp3.1\VsCodeUpNRunning.csprojAssemblyReference.cache
+D:\Tutorial Projects\.Net\VsCodeUpNRunning\obj\Debug\netcoreapp3.1\VsCodeUpNRunning.csproj.CoreCompileInputs.cache
+D:\Tutorial Projects\.Net\VsCodeUpNRunning\obj\Debug\netcoreapp3.1\VsCodeUpNRunning.AssemblyInfoInputs.cache
+D:\Tutorial Projects\.Net\VsCodeUpNRunning\obj\Debug\netcoreapp3.1\VsCodeUpNRunning.AssemblyInfo.cs
+D:\Tutorial Projects\.Net\VsCodeUpNRunning\obj\Debug\netcoreapp3.1\VsCodeUpNRunning.dll
+D:\Tutorial Projects\.Net\VsCodeUpNRunning\obj\Debug\netcoreapp3.1\VsCodeUpNRunning.pdb
+D:\Tutorial Projects\.Net\VsCodeUpNRunning\obj\Debug\netcoreapp3.1\VsCodeUpNRunning.genruntimeconfig.cache
